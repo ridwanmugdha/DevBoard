@@ -138,7 +138,7 @@ function completeTask(button, taskTitle) {
   //Task assigned Zero
 
   if (taskCount === 0) {
-    alert("✅ Successfully failed the Task");
+    alert("✅ Successfully failed ALL the Task");
   }
 }
 
